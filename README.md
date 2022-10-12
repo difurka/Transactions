@@ -1,7 +1,7 @@
 # Transactions
 Implementation of in-memory key-value store for storing various financial transaction data.
 
-The project was completed by: Ekaterina Balakina (cshara) - hash table, B+ tree; Borisov Dmitry (bromanyt) - AVL tree.
+The project was completed by: Balakina Ekaterina (cshara) - hash table, B+ tree; Borisov Dmitry (bromanyt) - AVL tree.
 
 ## Content
 
